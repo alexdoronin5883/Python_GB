@@ -3,7 +3,7 @@
 # строковое представление. Функцию hex
 # используйте для проверки своего результата
 
- def to_hex(num):
+def to_hex(num):
     hex_digits = "0123456789abcdef"
     hex_str = ""
     while num > 0:
